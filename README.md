@@ -1,5 +1,12 @@
 <h1>Hi, I'm Brian, an <a href="https://www.linkedin.com/in/brian-brown-5855ba240/">IT Professional</a>☺</h1>
 
+Walkthrough of osTicket
+
+
+-This is my project on how i used osTicket to create my github profile for potential employeers. In this project I will show how I setup and used osTicket to manage user accounts. I was able to create users and put them in different departments where they demonstrated access to separate levels to information based on a company needs.
+
+-Microsoft Azure was used to create a virtual environment in order to show the different ways someone can use osTicket to assign, escalate tickets to the right department in order to fix the issues that arrise in a timely manner.
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
