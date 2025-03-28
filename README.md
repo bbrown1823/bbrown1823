@@ -7,6 +7,12 @@ Walkthrough of osTicket
 
 -Microsoft Azure was used to create a virtual environment in order to show the different ways someone can use osTicket to assign, escalate tickets to the right department in order to fix the issues that arrise in a timely manner.
 
+-In this project you will see how to setup the prerequisites needed to successfully operate osTicket and how to install all the needed softward.
+  
+-Along with the prerequisites you will see some of the features you can use while managing the ticketing software.
+
+-Ending with a view into the backend of the ticketing software where you can see admins and employees communicating to solve a problem to completion.
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
