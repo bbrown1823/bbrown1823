@@ -23,7 +23,7 @@ Walkthrough of Virtual Network setup along with osTicket
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/bbrown1823/Microsoft-Azura/)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/bbrown1823/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/bbrown1823/Microsoft-Azura-2)
 
 
 <!--
