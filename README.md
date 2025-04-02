@@ -15,15 +15,16 @@ Walkthrough of Virtual Network setup along with osTicket
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azura (Virtual Network System)</b>
-  - [Microsoft Azura: Virtual Machine Setup]
-  - [Microsoft Azura: Remote Desktop Setup]
     
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/bbrown1823/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/bbrown1823/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/bbrown1823/Ticket-Life-Cycle.git  )
--
+
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
 
 <!--
 **bbrown1823/bbrown1823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
