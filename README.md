@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brian, an <a href="https://www.linkedin.com/in/brian-brown-5855ba240/">IT Professional</a>☺</h1>
 
-Walkthrough of Virtual Network setup along with osTicket
+Walkthrough of osTicket along with Active Directory 
 
 
 -This is my project on how i used osTicket to create my github profile for potential employeers. In this project I will show how I setup and used osTicket to manage user accounts. I was able to create users and put them in different departments where they demonstrated access to separate levels to information based on a company needs.
