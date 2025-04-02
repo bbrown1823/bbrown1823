@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brian, an <a href="https://www.linkedin.com/in/brian-brown-5855ba240/">IT Professional</a>☺</h1>
 
-Walkthrough of osTicket along with Active Directory 
+Walkthrough of osTicket 
 
 
 -This is my project on how i used osTicket to create my github profile for potential employeers. In this project I will show how I setup and used osTicket to manage user accounts. I was able to create users and put them in different departments where they demonstrated access to separate levels to information based on a company needs.
@@ -21,9 +21,7 @@ Walkthrough of osTicket along with Active Directory
   - [osTicket: Post-Installation Configuration](https://github.com/bbrown1823/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/bbrown1823/Ticket-Life-Cycle.git  )
 
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/bbrown1823/Microsoft-Azura/)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/bbrown1823/Microsoft-Azura-2)
+
 
 
 <!--
