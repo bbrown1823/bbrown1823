@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brian, an <a href="https://www.linkedin.com/in/brian-brown-5855ba240/">IT Professional</a>☺</h1>
 
-Walkthrough of osTicket
+Walkthrough of Virtual Network setup along with osTicket
 
 
 -This is my project on how i used osTicket to create my github profile for potential employeers. In this project I will show how I setup and used osTicket to manage user accounts. I was able to create users and put them in different departments where they demonstrated access to separate levels to information based on a company needs.
@@ -15,6 +15,10 @@ Walkthrough of osTicket
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Azura (Virtual Network System)</b>
+  - [Microsoft Azura: Virtual Machine Setup]
+  - [Microsoft Azura: Remote Desktop Setup]
+    
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/bbrown1823/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/bbrown1823/post-install-config)
