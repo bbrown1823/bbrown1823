@@ -15,8 +15,8 @@ Walkthrough of osTicket
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
--Microsoft Azura Virtual Machine Setup
-  -https://github.com/bbrown1823/Microsoft-Azura/tree/main
+- <b>Microsoft Azura (Virtual Machine Setup)</b>
+  - [Configuring Microsoft Azure VMs](https://github.com/bbrown1823/Microsoft-Azura/tree/main) 
 
     
 - <b>osTicket (Help Desk Ticketing System)</b>
